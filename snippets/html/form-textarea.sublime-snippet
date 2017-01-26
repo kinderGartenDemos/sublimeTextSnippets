@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<div class="control">
+    <label for="$1" class="label">${1/(.+)/\u$1/g}:</label>
+    <textarea id="$1" name="$1" class="textarea"></textarea>
+</div>
+    ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>formtextarea</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.blade</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>form textarea snippets</description>
+</snippet>

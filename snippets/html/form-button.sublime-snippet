@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="control">
+    <button class="button is-primary">$1</button>
+</div>
+    ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>formbutton</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.blade</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>form button snippet</description>
+</snippet>

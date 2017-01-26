@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.0/css/bulma.css"> 
+    ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>bulma</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.blade</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>cdn bulma</description>
+</snippet>

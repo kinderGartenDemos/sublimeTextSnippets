@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+protected function $1()
+{
+    $2
+}
+    ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>prof</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>php protected function</description>
+</snippet>
