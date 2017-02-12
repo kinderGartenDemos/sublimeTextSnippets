@@ -11,3 +11,10 @@ triggerlist
 	- prof
 - cdn
 	- bulma
+
+### todos
+- html
+	- formcheckbox
+- cdn
+	- jquery
+	- bootstrap
