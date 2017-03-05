@@ -1,0 +1,13 @@
+[
+	
+	{ "keys": ["super+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["super+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+
+	// php companion 
+	{ "keys": ["f9"], "command": "expand_fqcn" },
+    { "keys": ["shift+f9"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["f10"], "command": "find_use" },
+    { "keys": ["f8"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" }
+]

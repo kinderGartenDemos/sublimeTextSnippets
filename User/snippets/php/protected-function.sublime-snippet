@@ -3,8 +3,7 @@
 protected function $1()
 {
     $2
-}
-    ]]></content>
+}]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>prof</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
